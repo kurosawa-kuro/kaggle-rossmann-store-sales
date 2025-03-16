@@ -1,7 +1,3 @@
-以下は、Kaggleの **Rossmann Store Sales** コンペを扱うリポジトリ [(kaggle-rossmann-store-sales)](https://github.com/kurosawa-kuro/kaggle-rossmann-store-sales) の README サンプルです。  
-本リポジトリでは、**データウェアハウス（DWH）的な視点でテーブル分割・マート化を行い、効率的にデータを結合・変換して** XGBoost を使ったベースラインモデルを構築しています。  
-
----
 
 # kaggle-rossmann-store-sales
 
